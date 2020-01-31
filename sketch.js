@@ -1,5 +1,6 @@
 // I still got problems with the mic in Google Chrome so I manage to fix volume sensibility from Microsoft Edge
 //In case of problems adjust sensibilty value
+//I can't access repository's settings to publish it on GitHub Pages. Sorry
 
 //variables for managing mic's volume
 var mic;
